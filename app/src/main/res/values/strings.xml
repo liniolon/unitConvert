@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Unit Convert</string>
+
+    <string-array name="units">
+        <item>centimeter</item>
+        <item>meter</item>
+        <item>kilometer</item>
+        <item>inch</item>
+    </string-array>
+
+    <string name="txt_input">Input Number</string>
+    <string name="txt_from">From</string>
+
+    <string name="txt_show">Calculate</string>
+    <string name="txt_calc">Unit Converter</string>
+</resources>
